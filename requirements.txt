@@ -1,0 +1,6 @@
+
+pandas
+numpy
+pyserial
+scipy
+pyserial
