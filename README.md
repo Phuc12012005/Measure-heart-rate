@@ -4,8 +4,11 @@ This is a small DIY project build by a group of HUST student. The project using 
 ## How to connect sensor with arduino
 
 GND - GND
+
 SCL - A5
+
 SDA - A4
+
 VIN - 3.3V
 
 ## Upload the code
@@ -18,13 +21,14 @@ VIN - 3.3V
 ## Get the output and put it on CSV file
 1. Create virtual env and install library
 
-'''
+```
 python3 -m venv venv
-'''
+```
 
-'''
+```
 source venv/bin/activate
-'''
+```
 
-'''
+```
 pip install -r requirements.txt
+```
