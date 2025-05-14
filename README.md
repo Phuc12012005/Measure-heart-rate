@@ -32,3 +32,12 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+2. Get the output
+
+- Connect arduino and computer. See the port on the Arduino IDE. Change the port in source code as it is.
+- Turn off arduino ide
+- Run the log.py
+
+3. Check if the output is on CSV file or not
+4. Run the analyze file
